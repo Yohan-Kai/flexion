@@ -1,0 +1,4 @@
+.horizontal-arrange {
+    display: flex;
+    justify-content: space-between;
+}
