@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.container1 {
+    display: flex;
+    height: 500px;
+    background-color: peachpuff;
+    border: 5px solid brown;
+    text-align: center;
+}
+
+.products {
+    display: flex;
+    height: 100px;
+    background-color: burlywood;
+    border: 3px solid cadetblue;
+}
+.something {
+    display: flex;
+    height: 25px;
+    background-color: burlywood;
+    border: 3px solid cadetblue;
+    justify-content: center;
+}
